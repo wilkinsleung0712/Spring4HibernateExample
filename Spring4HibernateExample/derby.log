@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Dec 30 19:32:39 EST 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-014a-9a53-4fde-000005d4c0f8 
+on database directory C:\Users\Wilkins\workspace\Spring4HibernateExample\db with class loader sun.misc.Launcher$AppClassLoader@749cd006 
+Loaded from file:/C:/Users/Wilkins/.m2/repository/org/apache/derby/derby/10.11.1.1/derby-10.11.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_55-b13
+user.dir=C:\Users\Wilkins\workspace\Spring4HibernateExample
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
